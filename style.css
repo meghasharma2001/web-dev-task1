@@ -71,3 +71,16 @@
     font-size: smaller;
    }
   }
+/* Media query for tablets (portrait) */
+@media only screen and (min-width: 768px) and (max-width: 1024px) and (orientation: portrait) {
+  .a1{
+    font-size: medium;
+  }
+  }
+  /* Media query for large desktops */
+/* @media only screen and (min-width: 1200px) {
+    .a1{
+        font-size: large;
+    }
+  } */
+  
